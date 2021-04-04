@@ -53,3 +53,15 @@ a:visited{
 a {
     text-decoration: none;
 }
+
+.bodyimg {
+    position: relative;
+}
+
+.bodyimg p{
+    color: white;
+    position: absolute;
+    top:30%;
+    left:30%;
+    font-size: 40px;
+}
